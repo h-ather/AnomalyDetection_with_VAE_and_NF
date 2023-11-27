@@ -1,4 +1,4 @@
-# AnomalyDetection_with_VAE_and-_NF
+# AnomalyDetection_with_VAE_and_NF
 
 Code Repo made by Hamza Ather for Purdue University PHYS570AI Fall 2023 course Project.
 
